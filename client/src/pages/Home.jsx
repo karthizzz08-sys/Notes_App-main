@@ -34,7 +34,7 @@ const Home = () => {
                     <div className="main-container">
                         <div className="headline">Notes</div>
                         <div className="cards-container">
-                            <div className="card"><textarea type="text"  className='input-box' onClick={bordercolor}></textarea><div className="card-edit-icon" onClick={openUpdateNote}><LuPencil /></div></div>
+                            <div className="card"><textarea type="text"  className='input-box'></textarea><div className="card-edit-icon" onClick={openUpdateNote}><LuPencil /></div></div>
                             <div className="card"><textarea type="text"  className='input-box'></textarea><div className="card-edit-icon" onClick={openUpdateNote}><LuPencil /></div></div>
                             <div className="card"><textarea type="text"  className='input-box'></textarea><div className="card-edit-icon" onClick={openUpdateNote}><LuPencil /></div></div>
                             <div className="card"><textarea type="text"  className='input-box'></textarea><div className="card-edit-icon" onClick={openUpdateNote}><LuPencil /></div></div>
