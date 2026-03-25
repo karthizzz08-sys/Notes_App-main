@@ -29,7 +29,7 @@ const Home = () => {
                 </header>
                 <main>
                     <div className="plus-icon-parent">
-                        <LuPlus className='plus-icon' />
+                        <LuPlus className='plus-icon' onClick={openUpdateNote} />
                     </div>
                     <div className="main-container">
                         <div className="headline">Notes</div>

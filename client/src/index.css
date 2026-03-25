@@ -187,7 +187,7 @@ body::-webkit-scrollbar{
     background-color: transparent;
     width: 280px;
     height: 280px;
-    /* border-radius: 40px; */
+    /* border-r~adius: 40px; */
     position: absolute;
     top: 8px;
     left: 5px;
